@@ -9,7 +9,7 @@ public class Demo {
 
     public  static  void main(String[] args){
         System.out.println("Meow");
-        String storedusername = "hhhh";
+        String storedusername = "ICC";
         String storedpassword = "hdfc@1234";
 
         Scanner sc = new Scanner(System.in);
